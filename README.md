@@ -1,1 +1,1 @@
-# chainox-sgminer
+# ChainOX SGMiner
